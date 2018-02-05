@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "name": "wodson",
+      "email": "wodson@wodson",
+      "phone": "31313131",
+      "id": 1
+    },
+    {
+      "name": "wodson luiz",
+      "email": "wodsonluiz@live.com",
+      "phone": "787987946",
+      "id": 2
+    }
+  ]
+}
